@@ -1,12 +1,12 @@
 {
     "date": "2022-06-18",
-    "time": "01:03:06",
-    "inputFile": "/home/andrew/Code/scratchwork/java-jni/string-to-int64_t-conversion/build/libcommon_functions.so",
+    "time": "01:05:24",
+    "inputFile": "/home/andrew/Code/scratchwork/java-jni/string-to-int64_t-conversion/build/libjni_example.so",
     "decompParams": {
         "verboseOut": false,
         "keepAllFuncs": false,
         "selectedDecodeOnly": false,
-        "outputFile": "/home/andrew/Code/scratchwork/java-jni/string-to-int64_t-conversion/build/libcommon_functions.so.c",
+        "outputFile": "/home/andrew/Code/scratchwork/java-jni/string-to-int64_t-conversion/build/libjni_example.so.c",
         "ordinalNumDirectory": "/usr/bin/../share/retdec/support/x86/ords/",
         "staticSignPaths": [
             "/usr/bin/../share/retdec/support/generic/yara_patterns/static-code/elf/64/le/x86/x64-gcc-4.7.2.yarac"

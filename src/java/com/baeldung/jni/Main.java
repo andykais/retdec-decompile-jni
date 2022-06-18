@@ -3,7 +3,7 @@ package com.baeldung.jni;
 public class Main {
   
   static {
-    System.loadLibrary("common_functions");
+    System.loadLibrary("jni_example");
   }
 
   public static native String concatStrings(String str, String str2);
